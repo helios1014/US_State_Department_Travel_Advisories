@@ -47,14 +47,12 @@ def rss_to_json(rss_url):
     if feed.status == 200:
         data =[]
         for entry in feed.entries:
-            print(entry['title'])
             record = {
                 'Name': entry['title'].split(' - ')[0],
                 'pubDate': time.strftime(r'%m/%d/%Y',entry['published_parsed']),
                 'ISO_A2': ISO_convert('BOLIV' if 'BL' == entry['tags'][1]['term'] else entry['tags'][1]['term']), #the BL conversion is nessesary as the US country tags BL for bolivia was causing issues during the ISO2 conversion process for reasons not recalled by the author
                 #in earlier version of this feed, BT was the term used for US State Department Country codes. This is retaind here as these codes still have to be recoded to ISOA2
-                'threat-level': entry['tags'][0]['term'],
-                'threat-num': int(re.search(r'\d+', entry['tags'][0]['term']).group())
+                'Threat-Level': entry['tags'][0]['term']
             } 
             data.append(record)
         output = json.dumps(data)
@@ -70,18 +68,37 @@ df['pubDate'] = pd.to_datetime(df.pubDate)
 df.loc[df['pubDate'] > pd.Timestamp.today(), ['pubDate']] = pd.Timestamp.today()
 df.loc[df['Name'] == 'Macau', ['ISO_A2']] = 'MO'
 df.loc[df['Name'] == 'Hong Kong', ['ISO_A2']] = 'HK'
+FT = df.loc[df.ISO_A2=='A3'].squeeze()
+FT_df = pd.DataFrame({'pubDate':[FT.iloc[1]]*4, 'ISO_A2':['GP', 'MQ', 'MF', 'BL'], 'Threat-Level':[FT.iloc[3]]*4})
+df = pd.concat([df, FT_df], ignore_index=True)
+df.drop(df[df['ISO_A2'] == 'A3'].index, inplace=True)
+df.drop('Name', axis=1, inplace=True)
+
 df.head()
+# %% 
+
 # %%
-filterd_data = df[df['pubDate']>=pd.Timestamp(year=2025, month=10, day=1)].copy(deep=True)
-filterd_data.drop('Name', axis=1, inplace=True)
+old_data = pd.read_json(r'USSD_TAs.json')
+old_data['pubDate'] = pd.to_datetime(old_data.pubDate)
+old_data.head()
+filtered_data = pd.merge(df, old_data.groupby('ISO_A2')['pubDate'].max(), on='ISO_A2', how='left').sort_values(by=['ISO_A2'])
+filtered_data.loc[~(filtered_data['pubDate_x'] ==filtered_data['pubDate_y'])]
+filtered_data.drop('pubDate_y', axis=1, inplace=True)
+filtered_data.rename(columns={'pubDate_x': 'pubDate'}, inplace=True)
 # %%
-if filterd_data.isin(['ISO_A2']).any().any():
-    FT = filterd_data.loc[filterd_data.ISO_A2=='A3'].squeeze().iloc[0]
-    FT_df = pd.DataFrame({'pubDate':[FT.iloc[1]]*4, 'ISO_A2':['GP', 'MQ', 'MF', 'BL'], 'threat-level':[FT.iloc[3]]*4, 'threat-num':[FT.iloc[4]]*4})
-    filterd_data = pd.concat([filterd_data, FT_df], ignore_index=True)
-else:
-    filterd_data
+#filtered_data['pubDate'] = filtered_data['pubDate'].dt.strftime(r'%m/%d/%Y')
+#old_data['pubDate'] = old_data['pubDate'].dt.strftime(r'%m/%d/%Y')
+pd.concat([filtered_data, old_data], ignore_index=True).to_csv('USSD_TAS.csv', index=False, )
+
+#= filtered_data.to_json(orient='records', lines=True)
+#with open('USSD_TAs.json') as file:
+    #old_j  = json.load(file)
+#data = new_data + old_j
+#data
 # %%
-new_data = filterd_data.to_json(orient='records')
-data = new_data + old
-https://stackoverflow.com/questions/42078161/python-appending-json-object-to-exisiting-json-object
+new_data
+# %%
+old_j
+# %%
+filtered_data
+# %%
