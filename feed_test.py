@@ -57,7 +57,7 @@ def rss_to_json(rss_url):
                 'pubDate': time.strftime(r'%m/%d/%Y',entry['published_parsed']),
                 'ISO_A2': ISO_convert('BOLIV' if 'BL' == entry['tags'][1]['term'] else entry['tags'][1]['term']), #the BL conversion is nessesary as the US country tags BL for bolivia was causing issues during the ISO2 conversion process for reasons not recalled by the author
                 'Threat-Level': entry['tags'][0]['term'],
-                'Threat-Num': int(re.search(r'\d+', entry['tags'][0]['term']))
+                'Threat-Num': int(re.search(r'\d+', entry['tags'][0]['term']).group())
             } 
             data.append(record)
         output = json.dumps(data)
