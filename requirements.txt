@@ -1,6 +1,4 @@
-feedparser 
-json 
-io 
+feedparser
 geopandas 
 pandas 
 requests 
