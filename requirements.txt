@@ -2,4 +2,4 @@ feedparser
 geopandas 
 pandas 
 requests 
-BeautifulSoup
+BeautifulSoup4

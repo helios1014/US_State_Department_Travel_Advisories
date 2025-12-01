@@ -1,4 +1,4 @@
-name: run main.py
+name: run feed_test.py
 
 on:
   schedule:
