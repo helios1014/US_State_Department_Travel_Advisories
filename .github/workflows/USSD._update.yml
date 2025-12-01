@@ -3,7 +3,7 @@ name: run main.py
 on:
   schedule:
     - cron: '0 12 * * *' # At 12:00 UTC everyday
-  workflow_dispatch #manually trigger action
+  workflow_dispatch: #manually trigger action
 
 jobs:
   build:
