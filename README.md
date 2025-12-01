@@ -1,1 +1,1 @@
-Insert description here
+Purpose of this page is to demonstrate an ETL process I have implemented for a work process at the US Marshals Service. At present, it will download data from the US State Department, transform it tin something usable and archive the data. The next implementation will add a visual. 
