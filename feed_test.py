@@ -8,7 +8,6 @@ import io
 import requests
 from bs4 import BeautifulSoup
 import geopandas as gpd
-import zipfile
 import matplotlib.pyplot as plt
 # %%
 #dictionary to convert US State Department Country Codes to ISO2 as needed. 
@@ -182,4 +181,5 @@ ax.set_title(f'World Map of US State Department Travel Advisories for {today_t}'
 plt.savefig('travel_map.svg', bbox_inches='tight', dpi=600)
 # %%
 #https://geopandas.org/en/stable/docs/user_guide/interactive_mapping.html
+
 
