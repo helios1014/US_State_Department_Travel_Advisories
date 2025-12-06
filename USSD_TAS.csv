@@ -91,7 +91,7 @@ pubDate,ISO_A2,Threat-Level,Threat-Num
 2024-08-28 00:00:00.000000,IE,Level 1: Exercise Normal Precautions,1.0
 2025-06-16 00:00:00.000000,IN,Level 2: Exercise Increased Caution,2.0
 2025-07-17 00:00:00.000000,IQ,Level 4: Do Not Travel,4.0
-2025-03-31 00:00:00.000000,IR,Level 4: Do Not Travel,4.0
+2025-12-05 00:00:00.000000,IR,Level 4: Do Not Travel,4.0
 2024-08-22 00:00:00.000000,IS,Level 1: Exercise Normal Precautions,1.0
 2025-05-23 00:00:00.000000,IT,Level 2: Exercise Increased Caution,2.0
 2025-11-03 00:00:00.000000,JM,Level 3: Reconsider Travel,3.0
@@ -141,6 +141,220 @@ pubDate,ISO_A2,Threat-Level,Threat-Num
 2024-07-24 00:00:00.000000,MY,Level 1: Exercise Normal Precautions,1.0
 2025-06-16 00:00:00.000000,MZ,Level 2: Exercise Increased Caution,2.0
 2024-12-23 00:00:00.000000,NA,Level 2: Exercise Increased Caution,2.0
+2024-06-04 00:00:00.000000,NC,Level 3: Reconsider Travel,3.0
+2025-10-31 00:00:00.000000,NE,Level 4: Do Not Travel,4.0
+2025-07-15 00:00:00.000000,NG,Level 3: Reconsider Travel,3.0
+2024-12-13 00:00:00.000000,NI,Level 3: Reconsider Travel,3.0
+2024-08-09 00:00:00.000000,NL,Level 2: Exercise Increased Caution,2.0
+2025-02-03 00:00:00.000000,NO,Level 1: Exercise Normal Precautions,1.0
+2025-09-11 00:00:00.000000,NP,Level 3: Reconsider Travel,3.0
+2024-12-02 00:00:00.000000,NR,Level 1: Exercise Normal Precautions,1.0
+2025-01-03 00:00:00.000000,NZ,Level 1: Exercise Normal Precautions,1.0
+2024-11-12 00:00:00.000000,OM,Level 2: Exercise Increased Caution,2.0
+2024-09-23 00:00:00.000000,PA,Level 2: Exercise Increased Caution,2.0
+2025-05-16 00:00:00.000000,PE,Level 2: Exercise Increased Caution,2.0
+2024-12-02 00:00:00.000000,PF,Level 1: Exercise Normal Precautions,1.0
+2025-04-29 00:00:00.000000,PG,Level 3: Reconsider Travel,3.0
+2025-05-08 00:00:00.000000,PH,Level 2: Exercise Increased Caution,2.0
+2025-03-07 00:00:00.000000,PK,Level 3: Reconsider Travel,3.0
+2025-06-05 00:00:00.000000,PL,Level 1: Exercise Normal Precautions,1.0
+2025-03-03 00:00:00.000000,PT,Level 1: Exercise Normal Precautions,1.0
+2024-08-06 00:00:00.000000,PW,Level 1: Exercise Normal Precautions,1.0
+2025-04-30 00:00:00.000000,PY,Level 1: Exercise Normal Precautions,1.0
+2025-06-03 00:00:00.000000,QA,Level 1: Exercise Normal Precautions,1.0
+2025-10-14 00:00:00.000000,RO,Level 1: Exercise Normal Precautions,1.0
+2025-04-11 00:00:00.000000,RS,Level 2: Exercise Increased Caution,2.0
+2025-05-08 00:00:00.000000,RU,Level 4: Do Not Travel,4.0
+2025-07-16 00:00:00.000000,RW,Level 2: Exercise Increased Caution,2.0
+2024-09-09 00:00:00.000000,SA,Level 2: Exercise Increased Caution,2.0
+2025-04-29 00:00:00.000000,SB,Level 2: Exercise Increased Caution,2.0
+2024-08-30 00:00:00.000000,SC,Level 1: Exercise Normal Precautions,1.0
+2025-10-15 00:00:00.000000,SD,Level 4: Do Not Travel,4.0
+2024-07-24 00:00:00.000000,SE,Level 2: Exercise Increased Caution,2.0
+2025-03-05 00:00:00.000000,SG,Level 1: Exercise Normal Precautions,1.0
+2024-07-26 00:00:00.000000,SI,Level 1: Exercise Normal Precautions,1.0
+2024-11-14 00:00:00.000000,SK,Level 1: Exercise Normal Precautions,1.0
+2025-09-15 00:00:00.000000,SL,Level 2: Exercise Increased Caution,2.0
+2025-12-01 00:00:00.000000,SN,Level 1: Exercise Normal Precautions,1.0
+2025-05-14 00:00:00.000000,SO,Level 4: Do Not Travel,4.0
+2024-12-13 00:00:00.000000,SR,Level 1: Exercise Normal Precautions,1.0
+2025-11-13 00:00:00.000000,SS,Level 4: Do Not Travel,4.0
+2025-10-08 00:00:00.000000,ST,Level 2: Exercise Increased Caution,2.0
+2025-04-08 00:00:00.000000,SV,Level 1: Exercise Normal Precautions,1.0
+2024-08-19 00:00:00.000000,SX,Level 1: Exercise Normal Precautions,1.0
+2025-07-23 00:00:00.000000,SY,Level 4: Do Not Travel,4.0
+2024-07-01 00:00:00.000000,SZ,Level 2: Exercise Increased Caution,2.0
+2025-03-04 00:00:00.000000,TC,Level 2: Exercise Increased Caution,2.0
+2025-03-18 00:00:00.000000,TD,Level 3: Reconsider Travel,3.0
+2024-11-07 00:00:00.000000,TG,Level 2: Exercise Increased Caution,2.0
+2025-07-25 00:00:00.000000,TH,Level 2: Exercise Increased Caution,2.0
+2025-05-16 00:00:00.000000,TJ,Level 2: Exercise Increased Caution,2.0
+2025-03-21 00:00:00.000000,TL,Level 2: Exercise Increased Caution,2.0
+2025-02-28 00:00:00.000000,TM,Level 1: Exercise Normal Precautions,1.0
+2024-10-23 00:00:00.000000,TN,Level 2: Exercise Increased Caution,2.0
+2024-12-02 00:00:00.000000,TO,Level 1: Exercise Normal Precautions,1.0
+2024-10-16 00:00:00.000000,TR,Level 2: Exercise Increased Caution,2.0
+2025-05-07 00:00:00.000000,TT,Level 3: Reconsider Travel,3.0
+2024-12-02 00:00:00.000000,TV,Level 1: Exercise Normal Precautions,1.0
+2025-11-25 00:00:00.000000,TW,Level 1: Exercise Normal Precautions,1.0
+2025-10-31 00:00:00.000000,TZ,Level 3: Reconsider Travel,3.0
+2024-11-14 00:00:00.000000,UA,Level 4: Do Not Travel,4.0
+2025-04-23 00:00:00.000000,UG,Level 3: Reconsider Travel,3.0
+2025-05-07 00:00:00.000000,UY,Level 2: Exercise Increased Caution,2.0
+2024-09-27 00:00:00.000000,UZ,Level 1: Exercise Normal Precautions,1.0
+2024-12-06 00:00:00.000000,VC,Level 1: Exercise Normal Precautions,1.0
+2025-12-03 00:00:00.000000,VE,Level 4: Do Not Travel,4.0
+2024-08-22 00:00:00.000000,VG,Level 1: Exercise Normal Precautions,1.0
+2024-12-16 00:00:00.000000,VN,Level 1: Exercise Normal Precautions,1.0
+2025-05-22 00:00:00.000000,VU,Level 1: Exercise Normal Precautions,1.0
+2025-03-10 00:00:00.000000,WS,Level 1: Exercise Normal Precautions,1.0
+2024-12-02 00:00:00.000000,XK,Level 2: Exercise Increased Caution,2.0
+2025-03-31 00:00:00.000000,YE,Level 4: Do Not Travel,4.0
+2025-05-27 00:00:00.000000,ZA,Level 2: Exercise Increased Caution,2.0
+2023-07-31 00:00:00.000000,ZM,Level 1: Exercise Normal Precautions,1.0
+2023-06-27 00:00:00.000000,ZW,Level 2: Exercise Increased Caution,2.0
+2025-03-25 00:00:00.000000,AD,Level 1: Exercise Normal Precautions,1.0
+2025-08-08 00:00:00.000000,AE,Level 2: Exercise Increased Caution,2.0
+2025-01-13 00:00:00.000000,AF,Level 4: Do Not Travel,4.0
+2024-08-22 00:00:00.000000,AG,Level 1: Exercise Normal Precautions,1.0
+2024-08-22 00:00:00.000000,AI,Level 1: Exercise Normal Precautions,1.0
+2024-12-31 00:00:00.000000,AL,Level 2: Exercise Increased Caution,2.0
+2025-09-05 00:00:00.000000,AM,Level 2: Exercise Increased Caution,2.0
+2024-09-23 00:00:00.000000,AO,Level 2: Exercise Increased Caution,2.0
+2025-09-23 00:00:00.000000,AQ,Level 2: Exercise Increased Caution,2.0
+2024-09-20 00:00:00.000000,AR,Level 1: Exercise Normal Precautions,1.0
+2024-08-23 00:00:00.000000,AT,Level 1: Exercise Normal Precautions,1.0
+2025-05-30 00:00:00.000000,AU,Level 1: Exercise Normal Precautions,1.0
+2024-08-19 00:00:00.000000,AW,Level 1: Exercise Normal Precautions,1.0
+2025-05-21 00:00:00.000000,AZ,Level 2: Exercise Increased Caution,2.0
+2024-12-12 00:00:00.000000,BA,Level 2: Exercise Increased Caution,2.0
+2024-08-22 00:00:00.000000,BB,Level 1: Exercise Normal Precautions,1.0
+2025-04-18 00:00:00.000000,BD,Level 3: Reconsider Travel,3.0
+2025-05-22 00:00:00.000000,BE,Level 2: Exercise Increased Caution,2.0
+2025-04-16 00:00:00.000000,BF,Level 4: Do Not Travel,4.0
+2025-10-09 00:00:00.000000,BG,Level 1: Exercise Normal Precautions,1.0
+2024-09-09 00:00:00.000000,BH,Level 2: Exercise Increased Caution,2.0
+2025-04-29 00:00:00.000000,BI,Level 3: Reconsider Travel,3.0
+2024-05-24 00:00:00.000000,BJ,Level 2: Exercise Increased Caution,2.0
+2024-08-22 00:00:00.000000,BL,Level 1: Exercise Normal Precautions,
+2024-11-12 00:00:00.000000,BM,Level 1: Exercise Normal Precautions,1.0
+2025-03-19 00:00:00.000000,BN,Level 1: Exercise Normal Precautions,1.0
+2024-06-06 00:00:00.000000,BO,Level 2: Exercise Increased Caution,2.0
+2024-08-19 00:00:00.000000,BQ,Level 1: Exercise Normal Precautions,1.0
+2024-08-19 00:00:00.000000,BQ,Level 1: Exercise Normal Precautions,1.0
+2024-08-19 00:00:00.000000,BQ,Level 1: Exercise Normal Precautions,1.0
+2025-05-29 00:00:00.000000,BR,Level 2: Exercise Increased Caution,2.0
+2025-03-31 00:00:00.000000,BS,Level 2: Exercise Increased Caution,2.0
+2025-10-20 00:00:00.000000,BT,Level 1: Exercise Normal Precautions,1.0
+2024-02-26 00:00:00.000000,BW,Level 2: Exercise Increased Caution,2.0
+2025-08-28 00:00:00.000000,BY,Level 4: Do Not Travel,4.0
+2024-12-30 00:00:00.000000,BZ,Level 2: Exercise Increased Caution,2.0
+2025-06-11 00:00:00.000000,CA,Level 1: Exercise Normal Precautions,1.0
+2025-08-12 00:00:00.000000,CD,Level 3: Reconsider Travel,3.0
+2025-11-10 00:00:00.000000,CF,Level 4: Do Not Travel,4.0
+2024-10-02 00:00:00.000000,CG,Level 2: Exercise Increased Caution,2.0
+2025-05-20 00:00:00.000000,CH,Level 1: Exercise Normal Precautions,1.0
+2024-04-08 00:00:00.000000,CI,Level 2: Exercise Increased Caution,2.0
+2025-01-16 00:00:00.000000,CL,Level 2: Exercise Increased Caution,2.0
+2024-12-18 00:00:00.000000,CM,Level 2: Exercise Increased Caution,2.0
+2024-11-27 00:00:00.000000,CN,Level 2: Exercise Increased Caution,2.0
+2025-04-17 00:00:00.000000,CO,Level 3: Reconsider Travel,3.0
+2024-12-10 00:00:00.000000,CR,Level 2: Exercise Increased Caution,2.0
+2025-05-07 00:00:00.000000,CU,Level 2: Exercise Increased Caution,2.0
+2024-09-23 00:00:00.000000,CV,Level 1: Exercise Normal Precautions,1.0
+2024-08-19 00:00:00.000000,CW,Level 1: Exercise Normal Precautions,1.0
+2025-01-13 00:00:00.000000,CY,Level 1: Exercise Normal Precautions,1.0
+2025-04-28 00:00:00.000000,CZ,Level 1: Exercise Normal Precautions,1.0
+2025-05-13 00:00:00.000000,DE,Level 2: Exercise Increased Caution,2.0
+2025-03-06 00:00:00.000000,DJ,Level 2: Exercise Increased Caution,2.0
+2024-09-17 00:00:00.000000,DK,Level 2: Exercise Increased Caution,2.0
+2024-08-22 00:00:00.000000,DM,Level 1: Exercise Normal Precautions,1.0
+2025-06-12 00:00:00.000000,DO,Level 2: Exercise Increased Caution,2.0
+2024-09-26 00:00:00.000000,DZ,Level 2: Exercise Increased Caution,2.0
+2025-10-14 00:00:00.000000,EC,Level 2: Exercise Increased Caution,2.0
+2024-07-23 00:00:00.000000,EE,Level 1: Exercise Normal Precautions,1.0
+2025-07-15 00:00:00.000000,EG,Level 2: Exercise Increased Caution,2.0
+2023-07-31 00:00:00.000000,ER,Level 2: Exercise Increased Caution,2.0
+2025-05-12 00:00:00.000000,ES,Level 2: Exercise Increased Caution,2.0
+2023-07-31 00:00:00.000000,ET,Level 3: Reconsider Travel,3.0
+2024-08-09 00:00:00.000000,FI,Level 1: Exercise Normal Precautions,1.0
+2024-12-02 00:00:00.000000,FJ,Level 1: Exercise Normal Precautions,1.0
+2025-01-22 00:00:00.000000,FM,Level 1: Exercise Normal Precautions,1.0
+2025-05-28 00:00:00.000000,FR,Level 2: Exercise Increased Caution,2.0
+2024-12-18 00:00:00.000000,GA,Level 2: Exercise Increased Caution,2.0
+2025-05-08 00:00:00.000000,GB,Level 2: Exercise Increased Caution,2.0
+2024-11-12 00:00:00.000000,GD,Level 1: Exercise Normal Precautions,1.0
+2025-03-13 00:00:00.000000,GE,Level 1: Exercise Normal Precautions,1.0
+2025-01-16 00:00:00.000000,GF,Level 1: Exercise Normal Precautions,1.0
+2025-04-08 00:00:00.000000,GH,Level 2: Exercise Increased Caution,2.0
+2024-10-29 00:00:00.000000,GL,Level 2: Exercise Increased Caution,2.0
+2024-10-16 00:00:00.000000,GM,Level 2: Exercise Increased Caution,2.0
+2024-12-12 00:00:00.000000,GN,Level 2: Exercise Increased Caution,2.0
+2024-08-22 00:00:00.000000,GP,Level 1: Exercise Normal Precautions,
+2025-10-07 00:00:00.000000,GQ,Level 2: Exercise Increased Caution,2.0
+2025-10-23 00:00:00.000000,GR,Level 1: Exercise Normal Precautions,1.0
+2024-12-30 00:00:00.000000,GT,Level 3: Reconsider Travel,3.0
+2025-03-24 00:00:00.000000,GW,Level 3: Reconsider Travel,3.0
+2025-05-12 00:00:00.000000,GY,Level 3: Reconsider Travel,3.0
+2024-11-27 00:00:00.000000,HK,Level 2: Exercise Increased Caution,2.0
+2024-12-10 00:00:00.000000,HN,Level 3: Reconsider Travel,3.0
+2025-10-09 00:00:00.000000,HR,Level 1: Exercise Normal Precautions,1.0
+2025-07-15 00:00:00.000000,HT,Level 4: Do Not Travel,4.0
+2024-08-21 00:00:00.000000,HU,Level 1: Exercise Normal Precautions,1.0
+2025-04-30 00:00:00.000000,ID,Level 2: Exercise Increased Caution,2.0
+2024-08-28 00:00:00.000000,IE,Level 1: Exercise Normal Precautions,1.0
+2025-06-16 00:00:00.000000,IN,Level 2: Exercise Increased Caution,2.0
+2025-07-17 00:00:00.000000,IQ,Level 4: Do Not Travel,4.0
+2025-03-31 00:00:00.000000,IR,Level 4: Do Not Travel,4.0
+2024-08-22 00:00:00.000000,IS,Level 1: Exercise Normal Precautions,1.0
+2025-05-23 00:00:00.000000,IT,Level 2: Exercise Increased Caution,2.0
+2025-11-03 00:00:00.000000,JM,Level 3: Reconsider Travel,3.0
+2024-09-12 00:00:00.000000,JO,Level 2: Exercise Increased Caution,2.0
+2025-05-15 00:00:00.000000,JP,Level 1: Exercise Normal Precautions,1.0
+2025-03-17 00:00:00.000000,KE,Level 2: Exercise Increased Caution,2.0
+2025-04-21 00:00:00.000000,KG,Level 1: Exercise Normal Precautions,1.0
+2025-07-25 00:00:00.000000,KH,Level 2: Exercise Increased Caution,2.0
+2024-12-02 00:00:00.000000,KI,Level 1: Exercise Normal Precautions,1.0
+2024-05-28 00:00:00.000000,KM,Level 2: Exercise Increased Caution,2.0
+2024-08-22 00:00:00.000000,KN,Level 1: Exercise Normal Precautions,1.0
+2025-04-29 00:00:00.000000,KP,Level 4: Do Not Travel,4.0
+2025-05-28 00:00:00.000000,KR,Level 1: Exercise Normal Precautions,1.0
+2025-04-08 00:00:00.000000,KW,Level 1: Exercise Normal Precautions,1.0
+2024-09-04 00:00:00.000000,KY,Level 1: Exercise Normal Precautions,1.0
+2024-08-05 00:00:00.000000,KZ,Level 1: Exercise Normal Precautions,1.0
+2024-11-21 00:00:00.000000,LA,Level 2: Exercise Increased Caution,2.0
+2025-07-03 00:00:00.000000,LB,Level 4: Do Not Travel,4.0
+2024-08-22 00:00:00.000000,LC,Level 1: Exercise Normal Precautions,1.0
+2025-05-22 00:00:00.000000,LI,Level 1: Exercise Normal Precautions,1.0
+2025-10-14 00:00:00.000000,LK,Level 2: Exercise Increased Caution,2.0
+2023-07-31 00:00:00.000000,LR,Level 2: Exercise Increased Caution,2.0
+2024-09-17 00:00:00.000000,LS,Level 2: Exercise Increased Caution,2.0
+2024-08-09 00:00:00.000000,LT,Level 1: Exercise Normal Precautions,1.0
+2024-07-19 00:00:00.000000,LU,Level 1: Exercise Normal Precautions,1.0
+2024-08-26 00:00:00.000000,LV,Level 1: Exercise Normal Precautions,1.0
+2025-07-16 00:00:00.000000,LY,Level 4: Do Not Travel,4.0
+2025-04-21 00:00:00.000000,MA,Level 2: Exercise Increased Caution,2.0
+2024-11-29 00:00:00.000000,MD,Level 2: Exercise Increased Caution,2.0
+2024-11-26 00:00:00.000000,ME,Level 1: Exercise Normal Precautions,1.0
+2024-08-22 00:00:00.000000,MF,Level 1: Exercise Normal Precautions,
+2025-12-04 00:00:00.000000,MG,Level 2: Exercise Increased Caution,2.0
+2025-06-16 00:00:00.000000,MH,Level 1: Exercise Normal Precautions,1.0
+2025-01-14 00:00:00.000000,MK,Level 1: Exercise Normal Precautions,1.0
+2025-10-30 00:00:00.000000,ML,Level 4: Do Not Travel,4.0
+2025-05-12 00:00:00.000000,MM,Level 4: Do Not Travel,4.0
+2025-01-22 00:00:00.000000,MN,Level 1: Exercise Normal Precautions,1.0
+2024-11-27 00:00:00.000000,MO,Level 3: Reconsider Travel,3.0
+2024-08-22 00:00:00.000000,MQ,Level 1: Exercise Normal Precautions,
+2025-07-15 00:00:00.000000,MR,Level 3: Reconsider Travel,3.0
+2024-08-22 00:00:00.000000,MS,Level 1: Exercise Normal Precautions,1.0
+2025-05-28 00:00:00.000000,MT,Level 1: Exercise Normal Precautions,1.0
+2024-08-30 00:00:00.000000,MU,Level 1: Exercise Normal Precautions,1.0
+2025-10-07 00:00:00.000000,MV,Level 2: Exercise Increased Caution,2.0
+2024-12-06 00:00:00.000000,MW,Level 2: Exercise Increased Caution,2.0
+2025-08-12 00:00:00.000000,MX,Level 2: Exercise Increased Caution,2.0
+2024-07-24 00:00:00.000000,MY,Level 1: Exercise Normal Precautions,1.0
+2025-06-16 00:00:00.000000,MZ,Level 2: Exercise Increased Caution,2.0
+2024-12-23 00:00:00.000000,,Level 2: Exercise Increased Caution,2.0
 2024-06-04 00:00:00.000000,NC,Level 3: Reconsider Travel,3.0
 2025-10-31 00:00:00.000000,NE,Level 4: Do Not Travel,4.0
 2025-07-15 00:00:00.000000,NG,Level 3: Reconsider Travel,3.0
