@@ -148,7 +148,7 @@ filtered_data.rename(columns={'pubDate_x': 'pubDate'}, inplace=True)
 # %%
 
 current_data = pd.concat([filtered_data, old_data], ignore_index=True)
-current_data.to_csv('USSD_TAS.csv', index=False, )
+current_data.to_csv('USSD_TAS.csv', index=False, sep='|')
 latest_df = current_data.sort_values(by=['ISO_A2', 'pubDate']).groupby('ISO_A2').last()
 
 # %%
@@ -181,5 +181,6 @@ ax.set_title(f'World Map of US State Department Travel Advisories for {today_t}'
 plt.savefig('travel_map.svg', bbox_inches='tight', dpi=600)
 # %%
 #https://geopandas.org/en/stable/docs/user_guide/interactive_mapping.html
+
 
 
