@@ -137,8 +137,9 @@ for attempt in range(5):
             time.sleep(5)
         else:
             raise
+
 # %%
-old_data = pd.read_csv(r'USSD_TAS.csv')
+old_data = pd.read_csv(r'USSD_TAS.csv', sep='|')
 old_data['pubDate'] = pd.to_datetime(old_data.pubDate)
 old_data.head()
 filtered_data = pd.merge(df, old_data.groupby('ISO_A2')['pubDate'].max(), on='ISO_A2', how='left').sort_values(by=['ISO_A2'])
