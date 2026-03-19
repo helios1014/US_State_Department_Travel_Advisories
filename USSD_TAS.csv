@@ -24999,67 +24999,67 @@ pubDate|ISO_A2|Threat-Level|Threat-Num
 2023-11-07 00:00:00.000000|ZA|Level 2: Exercise Increased Caution|
 2023-07-17 00:00:00.000000|PA|Level 2: Exercise Increased Caution|
 2021-09-27 00:00:00.000000|PA|Level 3: Reconsider Travel|
-2022-01-18|PA|Level 4: Do Not Travel|
-2022-04-20|PA|Level 3: Reconsider Travel|
-2022-10-05|PA|Level 2: Exercise Increased Caution|
-2023-07-26|RO|Level 1: Exercise Normal Precautions|
-2021-10-12|RO|Level 4: Do Not Travel|
-2022-01-04|RO|Level 3: Reconsider Travel|
-2022-01-24|RO|Level 4: Do Not Travel|
-2022-06-21|RO|Level 1: Exercise Normal Precautions|
-2022-10-04|RO|Level 1: Exercise Normal Precautions|
-2023-07-26|IT|Level 2: Exercise Increased Caution|
-2021-06-16|IT|Level 3: Reconsider Travel|
-2021-12-13|IT|Level 4: Do Not Travel|
-2022-04-25|IT|Level 2: Exercise Increased Caution|
-2022-10-04|IT|Level 2: Exercise Increased Caution|
-2023-08-03|CI|Level 2: Exercise Increased Caution|
-2021-08-30|CI|Level 3: Reconsider Travel|
-2022-01-18|CI|Level 3: Reconsider Travel|
-2022-02-28|CI|Level 3: Reconsider Travel|
-2022-04-18|CI|Level 3: Reconsider Travel|
-2022-10-04|CI|Level 3: Reconsider Travel|
-2023-07-17|MS|Level 1: Exercise Normal Precautions|
-2021-07-07|MS|Level 1: Exercise Normal Precautions|
-2022-01-18|MS|Level 2: Exercise Increased Caution|
-2022-02-28|MS|Level 2: Exercise Increased Caution|
-2022-05-23|MS|Level 1: Exercise Normal Precautions|
-2022-10-05|MS|Level 1: Exercise Normal Precautions|
-2024-01-29|LB|Level 3: Reconsider Travel|
-2021-10-25|LB|Level 4: Do Not Travel|
-2021-12-20|LB|Level 4: Do Not Travel|
-2022-06-06|LB|Level 3: Reconsider Travel|
-2022-10-05|LB|Level 3: Reconsider Travel|
-2023-02-01|LB|Level 3: Reconsider Travel|
-2023-07-13|LB|Level 3: Reconsider Travel|
-2023-10-17|LB|Level 4: Do Not Travel|
-2023-07-17|BQ|Level 1: Exercise Normal Precautions|
-2021-09-21|BQ|Level 3: Reconsider Travel|
-2021-12-20|BQ|Level 4: Do Not Travel|
-2022-04-18|BQ|Level 1: Exercise Normal Precautions|
-2022-10-04|BQ|Level 1: Exercise Normal Precautions|
-2023-08-22|MX|Level 3: Reconsider Travel|
-2021-07-12|MX|Level 3: Reconsider Travel|
-2021-12-08|MX|Level 3: Reconsider Travel|
-2022-01-31|MX|Level 4: Do Not Travel|
-2022-06-13|MX|Level 3: Reconsider Travel|
-2022-10-05|MX|Level 3: Reconsider Travel|
-2023-06-23|IN|Level 2: Exercise Increased Caution|
-2021-08-16|IN|Level 2: Exercise Increased Caution|
-2021-11-15|IN|Level 2: Exercise Increased Caution|
-2022-01-24|IN|Level 3: Reconsider Travel|
-2022-04-18|IN|Level 2: Exercise Increased Caution|
-2022-10-05|IN|Level 2: Exercise Increased Caution|
-2023-07-24|VU|Level 1: Exercise Normal Precautions|
-2021-06-16|VU|Level 4: Do Not Travel|
-2022-04-18|VU|Level 3: Reconsider Travel|
-2022-10-11|VU|Level 1: Exercise Normal Precautions|
-2023-06-30|HK|Level 2: Exercise Increased Caution|
-2021-06-16|HK|Level 3: Reconsider Travel|
-2022-01-19|HK|Level 3: Reconsider Travel|
-2022-03-01|HK|Level 4: Do Not Travel|
-2022-06-22|HK|Level 4: Do Not Travel|
-2022-10-05|HK|Level 3: Reconsider Travel|
-2023-06-30|MO|Level 3: Reconsider Travel|
-2021-06-16|MO|Level 4: Do Not Travel|
-2022-04-18|MO|Level 3: Reconsider Travel|
+2022-01-18 00:00:00.000000|PA|Level 4: Do Not Travel|
+2022-04-20 00:00:00.000000|PA|Level 3: Reconsider Travel|
+2022-10-05 00:00:00.000000|PA|Level 2: Exercise Increased Caution|
+2023-07-26 00:00:00.000000|RO|Level 1: Exercise Normal Precautions|
+2021-10-12 00:00:00.000000|RO|Level 4: Do Not Travel|
+2022-01-04 00:00:00.000000|RO|Level 3: Reconsider Travel|
+2022-01-24 00:00:00.000000|RO|Level 4: Do Not Travel|
+2022-06-21 00:00:00.000000|RO|Level 1: Exercise Normal Precautions|
+2022-10-04 00:00:00.000000|RO|Level 1: Exercise Normal Precautions|
+2023-07-26 00:00:00.000000|IT|Level 2: Exercise Increased Caution|
+2021-06-16 00:00:00.000000|IT|Level 3: Reconsider Travel|
+2021-12-13 00:00:00.000000|IT|Level 4: Do Not Travel|
+2022-04-25 00:00:00.000000|IT|Level 2: Exercise Increased Caution|
+2022-10-04 00:00:00.000000|IT|Level 2: Exercise Increased Caution|
+2023-08-03 00:00:00.000000|CI|Level 2: Exercise Increased Caution|
+2021-08-30 00:00:00.000000|CI|Level 3: Reconsider Travel|
+2022-01-18 00:00:00.000000|CI|Level 3: Reconsider Travel|
+2022-02-28 00:00:00.000000|CI|Level 3: Reconsider Travel|
+2022-04-18 00:00:00.000000|CI|Level 3: Reconsider Travel|
+2022-10-04 00:00:00.000000|CI|Level 3: Reconsider Travel|
+2023-07-17 00:00:00.000000|MS|Level 1: Exercise Normal Precautions|
+2021-07-07 00:00:00.000000|MS|Level 1: Exercise Normal Precautions|
+2022-01-18 00:00:00.000000|MS|Level 2: Exercise Increased Caution|
+2022-02-28 00:00:00.000000|MS|Level 2: Exercise Increased Caution|
+2022-05-23 00:00:00.000000|MS|Level 1: Exercise Normal Precautions|
+2022-10-05 00:00:00.000000|MS|Level 1: Exercise Normal Precautions|
+2024-01-29 00:00:00.000000|LB|Level 3: Reconsider Travel|
+2021-10-25 00:00:00.000000|LB|Level 4: Do Not Travel|
+2021-12-20 00:00:00.000000|LB|Level 4: Do Not Travel|
+2022-06-06 00:00:00.000000|LB|Level 3: Reconsider Travel|
+2022-10-05 00:00:00.000000|LB|Level 3: Reconsider Travel|
+2023-02-01 00:00:00.000000|LB|Level 3: Reconsider Travel|
+2023-07-13 00:00:00.000000|LB|Level 3: Reconsider Travel|
+2023-10-17 00:00:00.000000|LB|Level 4: Do Not Travel|
+2023-07-17 00:00:00.000000|BQ|Level 1: Exercise Normal Precautions|
+2021-09-21 00:00:00.000000|BQ|Level 3: Reconsider Travel|
+2021-12-20 00:00:00.000000|BQ|Level 4: Do Not Travel|
+2022-04-18 00:00:00.000000|BQ|Level 1: Exercise Normal Precautions|
+2022-10-04 00:00:00.000000|BQ|Level 1: Exercise Normal Precautions|
+2023-08-22 00:00:00.000000|MX|Level 3: Reconsider Travel|
+2021-07-12 00:00:00.000000|MX|Level 3: Reconsider Travel|
+2021-12-08 00:00:00.000000|MX|Level 3: Reconsider Travel|
+2022-01-31 00:00:00.000000|MX|Level 4: Do Not Travel|
+2022-06-13 00:00:00.000000|MX|Level 3: Reconsider Travel|
+2022-10-05 00:00:00.000000|MX|Level 3: Reconsider Travel|
+2023-06-23 00:00:00.000000|IN|Level 2: Exercise Increased Caution|
+2021-08-16 00:00:00.000000|IN|Level 2: Exercise Increased Caution|
+2021-11-15 00:00:00.000000|IN|Level 2: Exercise Increased Caution|
+2022-01-24 00:00:00.000000|IN|Level 3: Reconsider Travel|
+2022-04-18 00:00:00.000000|IN|Level 2: Exercise Increased Caution|
+2022-10-05 00:00:00.000000|IN|Level 2: Exercise Increased Caution|
+2023-07-24 00:00:00.000000|VU|Level 1: Exercise Normal Precautions|
+2021-06-16 00:00:00.000000|VU|Level 4: Do Not Travel|
+2022-04-18 00:00:00.000000|VU|Level 3: Reconsider Travel|
+2022-10-11 00:00:00.000000|VU|Level 1: Exercise Normal Precautions|
+2023-06-30 00:00:00.000000|HK|Level 2: Exercise Increased Caution|
+2021-06-16 00:00:00.000000|HK|Level 3: Reconsider Travel|
+2022-01-19 00:00:00.000000|HK|Level 3: Reconsider Travel|
+2022-03-01 00:00:00.000000|HK|Level 4: Do Not Travel|
+2022-06-22 00:00:00.000000|HK|Level 4: Do Not Travel|
+2022-10-05 00:00:00.000000|HK|Level 3: Reconsider Travel|
+2023-06-30 00:00:00.000000|MO|Level 3: Reconsider Travel|
+2021-06-16 00:00:00.000000|MO|Level 4: Do Not Travel|
+2022-04-18 00:00:00.000000|MO|Level 3: Reconsider Travel|
