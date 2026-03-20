@@ -140,7 +140,7 @@ for attempt in range(5):
 
 # %%
 old_data = pd.read_csv(r'USSD_TAS.csv', sep='|')
-old_data['pubDate'] = pd.to_datetime(old_data.pubDate)
+old_data['pubDate'] = pd.to_datetime(old_data.pubDate, format='mixed')
 old_data.head()
 filtered_data = pd.merge(df, old_data.groupby('ISO_A2')['pubDate'].max(), on='ISO_A2', how='left').sort_values(by=['ISO_A2'])
 filtered_data.loc[~(filtered_data['pubDate_x'] ==filtered_data['pubDate_y'])]
